@@ -31,7 +31,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/jazu1412/CMPE255_DATA_MINING_FALL24/blob/master/Derek_Banas_Python_Tutorial.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/jazu1412/CMPE255_DATA_MINING_FALL24/blob/master/ASSIGNMENT-1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -75,7 +75,7 @@
         "id": "3kEvqZi88eO_",
         "outputId": "f1db70fa-65dc-483b-c183-e69b3e666115"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -118,7 +118,7 @@
         },
         "outputId": "d58734c5-b180-47b1-fe76-ba68e7e8853e"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -161,7 +161,7 @@
         "id": "tkbVSdNMBA24",
         "outputId": "d11105f2-007d-42ef-d75e-0ad3d5990c69"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -199,7 +199,7 @@
         "id": "kvgO4rRKDSUb",
         "outputId": "0e4d3131-f93c-4560-e65e-04371cce0d68"
       },
-      "execution_count": 24,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -235,7 +235,7 @@
         "id": "9dI8cHb4HOMm",
         "outputId": "b02dc75c-2879-42d7-9472-d60f2c186ee2"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -269,7 +269,7 @@
         "id": "s_2QVl3aHRA8",
         "outputId": "ab720364-5cde-42df-a9c1-1ff4ff93548f"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -305,7 +305,7 @@
         "id": "mlqrV6sIHURi",
         "outputId": "003bda7a-4bf0-4c7b-fd40-2c25c71036d6"
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -372,7 +372,7 @@
         "id": "LoiGaz70JmrK",
         "outputId": "1fc5ee85-6233-4abe-900b-3bf10e7b1b81"
       },
-      "execution_count": 107,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -410,7 +410,7 @@
         "id": "aKUL0XmdNCFU",
         "outputId": "5d44a52b-15ca-40ba-a2f2-bd5bf430d908"
       },
-      "execution_count": 48,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -449,7 +449,7 @@
         "id": "DUrKjxR2Nw6j",
         "outputId": "b12c99ef-106c-4e10-f723-67e72e3fa875"
       },
-      "execution_count": 56,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -493,7 +493,7 @@
         "id": "q9HGUcKtTxug",
         "outputId": "eb466f6d-3a98-4c49-af87-8eee68e140a1"
       },
-      "execution_count": 58,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -537,7 +537,7 @@
         "id": "cVMCW6fcZ3To",
         "outputId": "3ef2f59f-8e29-458f-cad9-9199794f9877"
       },
-      "execution_count": 60,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -588,7 +588,7 @@
         "id": "0G6g2setbVz5",
         "outputId": "d8f572d3-97dc-47e3-d443-1180e08a17fd"
       },
-      "execution_count": 63,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -658,7 +658,7 @@
         "id": "v96rCQzAflB_",
         "outputId": "5dd7e49c-11df-4cc5-b8d8-2b6bd1992294"
       },
-      "execution_count": 71,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -712,7 +712,7 @@
         "id": "qHqBU98fi2fD",
         "outputId": "347aca04-9b16-4abd-811a-f665138b56db"
       },
-      "execution_count": 83,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -747,7 +747,7 @@
         "id": "zEpiA-FKkTL7",
         "outputId": "c1b75cde-fc44-4bb7-83a2-bbcaaff6f75d"
       },
-      "execution_count": 85,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -784,7 +784,7 @@
         "id": "g1GchmJZk4Pa",
         "outputId": "ed8ce880-3a29-4c1e-e2a2-7d1687fc2b33"
       },
-      "execution_count": 89,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -826,7 +826,7 @@
         "id": "AzDLUnMMl0cU",
         "outputId": "7e648eec-b52a-4080-cc08-87e54ed3e9d8"
       },
-      "execution_count": 93,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -869,7 +869,7 @@
         "id": "nxvR_Ov3oc6D",
         "outputId": "b9f240c0-a8d2-446c-8832-86d5759346e2"
       },
-      "execution_count": 102,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -913,7 +913,7 @@
         "id": "G-dS6siprqYA",
         "outputId": "64ffcb0a-f2c1-413e-c71d-acf2879110a2"
       },
-      "execution_count": 106,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
