@@ -17,7 +17,7 @@ The AI Todo Assistant is a Flask-based web application that helps users manage t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ai-todo-assistant.git
+   git clone https://github.com/jazu1412/CMPE255_DATA_MINING_FALL24.git
    ```
 
 2. Navigate to the project directory:
