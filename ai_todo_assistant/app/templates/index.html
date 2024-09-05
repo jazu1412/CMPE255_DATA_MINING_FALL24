@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Todo Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AI Todo Assistant</h1>
+        </header>
+        <main>
+            <section id="dashboard">
+                <h2>Dashboard</h2>
+                <div id="task-stats">
+                    <div class="stat-card">
+                        <h3>Total Tasks</h3>
+                        <p id="total-tasks">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Completed Tasks</h3>
+                        <p id="completed-tasks">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>High Priority Tasks</h3>
+                        <p id="high-priority-tasks">0</p>
+                    </div>
+                </div>
+                <div id="wake-up-time">
+                    <h3>Set Wake-up Time</h3>
+                    <input type="time" id="wake-up-input">
+                    <button id="generate-plan-btn">Generate Daily Plan</button>
+                </div>
+                <div id="daily-plan">
+                    <h3>Daily Plan</h3>
+                    <ul id="plan-list"></ul>
+                </div>
+            </section>
+            <section id="add-task">
+                <h2>Add Task</h2>
+                <form id="task-form">
+                    <input type="text" id="title" name="title" placeholder="Task Title" required>
+                    <textarea id="description" name="description" placeholder="Task Description"></textarea>
+                    <select id="priority" name="priority" required>
+                        <option value="">Select Priority</option>
+                        <option value="HIGH">High</option>
+                        <option value="MEDIUM">Medium</option>
+                        <option value="LOW">Low</option>
+                    </select>
+                    <input type="number" id="estimated_time" name="estimated_time" step="0.5" placeholder="Estimated Time (hours)" required>
+                    <input type="datetime-local" id="deadline" name="deadline">
+                    <input type="number" id="flexibility" name="flexibility" step="0.5" min="0" placeholder="Flexibility (hours)">
+                    <button type="submit">Add Task</button>
+                </form>
+            </section>
+            <section id="task-list">
+                <h2>Task List</h2>
+                <ul id="tasks"></ul>
+            </section>
+        </main>
+    </div>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
