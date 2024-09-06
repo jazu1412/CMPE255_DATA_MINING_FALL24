@@ -22,7 +22,7 @@ The AI Todo Assistant is a Flask-based web application that helps users manage t
 
 2. Navigate to the project directory:
    ```
-   cd ai-todo-assistant
+   cd AI-Pair-Programmer-Todo_assistant
    ```
 
 3. Create a virtual environment (optional but recommended):
