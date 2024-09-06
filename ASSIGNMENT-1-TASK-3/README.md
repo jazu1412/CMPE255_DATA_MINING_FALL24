@@ -9,7 +9,6 @@ The AI Todo Assistant is a Flask-based web application that helps users manage t
 - Add tasks with details such as title, description, priority, estimated time, deadline, and flexibility
 - Generate optimized daily plans based on wake-up time and task characteristics
 - Automatically adjust plans based on changes in task priorities or time constraints
-- Sync tasks with external calendar events
 - Track task statistics, including total tasks, completed tasks, and high priority tasks
 - Intuitive user interface for easy task management
 
@@ -62,7 +61,6 @@ The AI Todo Assistant is a Flask-based web application that helps users manage t
 - `app.py`: The main Flask application file.
 - `models.py`: Defines the database models for tasks.
 - `planner.py`: Contains the algorithms for generating and adjusting daily plans.
-- `calendar_sync.py`: Handles syncing tasks with external calendar events.
 - `templates/`: Directory containing HTML templates for the web interface.
 - `static/`: Directory containing static assets (CSS, JavaScript).
 
