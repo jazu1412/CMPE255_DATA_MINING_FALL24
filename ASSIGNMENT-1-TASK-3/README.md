@@ -63,10 +63,14 @@ The AI Todo Assistant is a Flask-based web application that helps users manage t
 - `planner.py`: Contains the algorithms for generating and adjusting daily plans.
 - `templates/`: Directory containing HTML templates for the web interface.
 - `static/`: Directory containing static assets (CSS, JavaScript).
+  
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+#![AI To-Do Assistant Interface](AI-Pair-Programmer-Todo_assistant/app/static/images/img-1.png)
+#![AI To-Do Assistant Interface](AI-Pair-Programmer-Todo_assistant/app/static/images/img-2.png)
 
 ## License
 
