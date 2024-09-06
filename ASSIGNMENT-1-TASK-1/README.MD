@@ -1,5 +1,3 @@
-Here’s a `README.md` file specifically for the `Task-1-Derek_Banas_Python_Tutorial.ipynb` notebook located in the `ASSIGNMENT-1-TASK-1` folder of your repository:
-
 ---
 
 # Assignment 1 - Task 1: Python Tutorial
