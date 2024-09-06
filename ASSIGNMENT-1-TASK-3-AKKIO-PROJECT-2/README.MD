@@ -4,7 +4,7 @@
 This project analyzes the "200 Financial Indicators of US stocks (2014-2018)" dataset using Akkio, a no-code AutoML platform. The analysis aims to predict stock price variations based on various financial indicators.
 
 ## Dataset
-**Source**: [Kaggle](https://www.kaggle.com/datasets)  
+**Source**: [Kaggle](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018)  
 **Description**: This dataset contains 200+ financial indicators for US stocks over the period 2014-2018.  
 **Columns**: Include various financial metrics such as Revenue, EPS, P/E Ratio, and many more.
 
@@ -14,7 +14,7 @@ The goal of this analysis is to predict the "2019 PRICE VAR [%]" for stocks base
 ## Live Demo
 You can explore the results of our analysis using Akkio through the live deployment link below:
 
-[**Live Deployment**](https://your-deployment-link.com)
+[**Live Deployment**](https://app.akk.io/deployments/7861bdc9-a17f-455e-a32b-371f147af1a5)
 
 ## Steps to Reproduce
 1. **Dataset**: Download the dataset from the [Kaggle link](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018).
