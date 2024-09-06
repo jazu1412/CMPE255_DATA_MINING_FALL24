@@ -43,5 +43,3 @@ To use the notebook:
 This project is licensed under the MIT License. Please refer to the `LICENSE` file for more information.
 
 ---
-
-You can place this `README.md` file in the `ASSIGNMENT-1-TASK-1` folder of your repository. It will help users understand the purpose and content of the notebook.
