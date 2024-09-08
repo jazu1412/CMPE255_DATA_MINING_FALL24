@@ -32,7 +32,7 @@ This task demonstrates basic and advanced Python programming by following Derek 
 In this task, a demonstration of GitHub Copilot is provided, showcasing how it can assist in coding a small project in VSCode. The task includes a video walkthrough of Copilot in action.
 
 **Files**:  
-- `📹 AI-Pair-Programmer-Priority-assignment.mp4`: Video demo using GitHub Copilot.  
+- `📹 AI-Pair-Programmer-Priority-assistant`: Video demo using GitHub Copilot.  
 - `📄 README.md`: Explanation of the AI pair programming project with Copilot.
 
 ---
