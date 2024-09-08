@@ -26,7 +26,7 @@ So we would be trying to predict this class column if its positive or negative b
 **Columns**: Include various financial metrics such as Revenue, EPS, P/E Ratio, and many more.
 
 ## Objective
-The goal of this analysis is to predict the "2019 PRICE VAR [%]" for stocks based on the provided financial indicators for the year 2018 alone. This prediction can provide valuable insights for investment decisions to either buy or sell a stock.
+The goal of this analysis is to predict the "2019 PRICE VAR [%]" for stocks is positive or negative (derived on class column) based on the provided financial indicators for the year 2018 alone. This prediction can provide valuable insights for investment decisions to either buy or sell a stock.
 
 ## Live Demo
 You can explore the results of our analysis using Akkio through the live deployment link below:
