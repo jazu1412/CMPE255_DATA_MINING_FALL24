@@ -5,7 +5,7 @@ This repository contains two key elements:
 ---
 
 ## 📌 Table of Contents
-- [Assignment 1 - Task 1: a) Python Tutorial](#assignment-1---task-1-python-tutorial)
+- [Assignment 1 - Task 1: a) Python Tutorial](# Assignment 1 - Task 1:a) Python Tutorial)
   - [File Overview](#file-overview)
   - [Usage](#usage)
   - [Key Topics Covered](#key-topics-covered)
