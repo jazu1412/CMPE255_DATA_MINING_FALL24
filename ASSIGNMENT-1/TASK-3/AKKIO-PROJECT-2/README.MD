@@ -3,6 +3,13 @@
 ## Overview
 This project analyzes the "200 Financial Indicators of US stocks (2014-2018)" dataset using Akkio, a no-code AutoML platform. The analysis aims to predict stock price variations based on various financial indicators.
 
+The last column of the dataset represent the class of each stock, where:
+
+if the value of a stock increases during 2019, then class=1;
+if the value of a stock decreases during 2019, then class=0.
+
+So we would be trying to predict this class column if its positive or negative based on 2018 financial data
+
 
 ## Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
