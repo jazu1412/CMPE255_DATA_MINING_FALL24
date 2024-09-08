@@ -6,7 +6,7 @@
 This is the assignment repository for **CMPE255 - Data Mining** for **Fall 2024**.
 
 ---
-**Assignment 1**.
+**ASSIGNMENT 1**
 ---
 
 ## 📝 Assignment 1 Overview
