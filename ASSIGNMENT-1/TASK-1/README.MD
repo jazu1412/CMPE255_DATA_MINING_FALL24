@@ -4,10 +4,6 @@ This repository contains two key elements:
 
 ---
 
-# Assignment 1 - Task 1: Python Tutorial
-
----
-
 ## 📌 Table of Contents
 - [Assignment 1 - Task 1: Python Tutorial](#assignment-1---task-1-python-tutorial)
   - [File Overview](#file-overview)
