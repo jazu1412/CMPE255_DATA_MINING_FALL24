@@ -1,7 +1,7 @@
 # Stock Price Variation Prediction Project
 
 ## Overview
-This project analyzes the "200 Financial Indicators of US stocks (2014-2018)" dataset using Akkio, a no-code AutoML platform for the financial year 2018 alone. The analysis aims to predict stock price variations based on various financial indicators.
+This project analyzes the "200 Financial Indicators of US stocks (2014-2018)" dataset using Akkio, a no-code AutoML platform for the financial year 2018 alone. The analysis aims to predict stock price variations based on various financial indicators.It tries to predict the future performance of a stock by looking at the financial information released in the 10-K filings  and also we have data on whether on the year 2019 , stock prices increased or not
 
 The last column of the dataset represent the class of each stock, where:
 
