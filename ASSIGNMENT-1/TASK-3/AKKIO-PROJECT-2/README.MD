@@ -32,8 +32,6 @@ You can explore the results of our analysis using Akkio through the live deploym
 ## Detailed Report
 For a comprehensive analysis of the project, check out our [detailed report](https://app.akk.io/reports/d2b8aede-45d1-4586-a5ad-69251b2354c0).
 
-## Model Accuracy
-The accuracy of the model is: **(73%)**
 
 ## Conclusion
 This project demonstrates the application of no-code AutoML tools like Akkio to analyze complex financial datasets, enabling users to predict stock price variations without requiring extensive coding skills. The "200 Financial Indicators of US stocks" dataset provides valuable information that can help investors make more informed decisions.
