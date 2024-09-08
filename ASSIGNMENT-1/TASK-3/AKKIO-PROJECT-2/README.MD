@@ -15,7 +15,7 @@ So we would be trying to predict this class column if its positive or negative b
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Live Preview
-[Click here to try the deployed model](https://app.akkio.com/deployments/4fd2a571-6cfd-46ed-ab75-cb40fa2446db)
+[Click here to try the deployed model](https://app.akkio.com/deployments/7861bdc9-a17f-455e-a32b-371f147af1a5)
 
 ## Report Generated
 [Click here to view the report from Akkio](https://app.akkio.com/reports/d2b8aede-45d1-4586-a5ad-69251b2354c0)
