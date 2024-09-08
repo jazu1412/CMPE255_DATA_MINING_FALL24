@@ -82,10 +82,6 @@ The Priority Assistant is a Flask-based web application that helps users manage 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgements
 
 - The Priority Assistant was inspired by the need for efficient task management and scheduling and was pair programmed using Claude-dev assistant in Visual Studio Code.
