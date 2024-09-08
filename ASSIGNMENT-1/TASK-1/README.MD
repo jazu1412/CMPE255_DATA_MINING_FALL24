@@ -5,12 +5,12 @@ This repository contains two key elements:
 ---
 
 ## 📌 Table of Contents
-- [Assignment 1 - Task 1: a) Python Tutorial](# Assignment 1 - Task 1:a) Python Tutorial)
+- [Assignment 1 - Task 1: a) Python Tutorial](#assignment-1---task-1-a-python-tutorial)
   - [File Overview](#file-overview)
   - [Usage](#usage)
   - [Key Topics Covered](#key-topics-covered)
   - [Prerequisites](#prerequisites)
-- [Assignment 1 - Task 1: b) Advanced Colab Notebook](#assignment 1 - Task 1: b) advanced-colab-notebook)
+- [Assignment 1 - Task 1: b) Advanced Colab Notebook](#assignment-1---task-1-b-advanced-colab-notebook)
   - [Description](#-description)
   - [Features](#-features)
   - [Installation](#-installation)
