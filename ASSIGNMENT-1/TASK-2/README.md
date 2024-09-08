@@ -12,6 +12,9 @@ The Priority Assistant is a Flask-based web application that helps users manage 
 - 🔄 Automatically adjust plans based on changes in task priorities or time constraints
 - 📊 Track task statistics, including total tasks, completed tasks, and high priority tasks
 - 🖥️ Intuitive user interface for easy task management
+  
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## 🛠️ Installation
 
