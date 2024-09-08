@@ -18,7 +18,7 @@ So we would be trying to predict this class column if its positive or negative b
 [Click here to try the deployed model](https://app.akkio.com/deployments/4fd2a571-6cfd-46ed-ab75-cb40fa2446db)
 
 ## Report Generated
-[Click here to view the report from Akkio](https://app.akkio.com/reports/88f7b0b9-97d4-457e-bd2f-7864b6182f41)
+[Click here to view the report from Akkio](https://app.akkio.com/reports/d2b8aede-45d1-4586-a5ad-69251b2354c0)
 
 ## Dataset
 **Source**: [Kaggle](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018)  
