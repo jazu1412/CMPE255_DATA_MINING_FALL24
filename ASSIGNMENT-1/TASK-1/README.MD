@@ -1,9 +1,10 @@
-
-# Assignment 1 - Task 1: Python Tutorial
-
 This repository contains two key elements:
 1. A Python tutorial Jupyter Notebook inspired by Derek Banas.
 2. An advanced Google Colab notebook demonstrating various functionalities.
+
+---
+
+# Assignment 1 - Task 1: Python Tutorial
 
 ---
 
