@@ -10,7 +10,7 @@ This repository contains two key elements:
   - [Usage](#usage)
   - [Key Topics Covered](#key-topics-covered)
   - [Prerequisites](#prerequisites)
-- [Assignment 1 - Task 1: b) Advanced Colab Notebook](Assignment 1 - Task 1: b)  #advanced-colab-notebook)
+- [Assignment 1 - Task 1: b) Advanced Colab Notebook](#assignment 1 - Task 1: b) advanced-colab-notebook)
   - [Description](#-description)
   - [Features](#-features)
   - [Installation](#-installation)
