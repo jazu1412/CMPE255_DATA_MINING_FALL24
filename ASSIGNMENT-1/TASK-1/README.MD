@@ -126,7 +126,3 @@ This notebook primarily utilizes built-in Colab functionalities and libraries. A
 
 Note: Most dependencies are automatically handled in the Colab environment.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
