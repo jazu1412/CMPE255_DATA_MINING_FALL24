@@ -3,6 +3,11 @@
 ## Overview
 This project analyzes the "200 Financial Indicators of US stocks (2014-2018)" dataset using Akkio, a no-code AutoML platform. The analysis aims to predict stock price variations based on various financial indicators.
 
+
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
 ## Dataset
 **Source**: [Kaggle](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018)  
 **Description**: This dataset contains 200+ financial indicators for US stocks for the period 2014-2018.  
