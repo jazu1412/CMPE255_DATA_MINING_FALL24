@@ -12,7 +12,7 @@ So we would be trying to predict this class column if its positive or negative b
 
 
 ## Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/M5z6LeCHHaU)
 
 ## Live Preview
 [Click here to try the deployed model](https://app.akkio.com/deployments/7861bdc9-a17f-455e-a32b-371f147af1a5)
