@@ -10,6 +10,10 @@ This project analyzes the "Mental Health in Tech Survey" dataset using Akkio, a 
 ## Live Preview
 [Click here to try the deployed model](https://app.akkio.com/deployments/4fd2a571-6cfd-46ed-ab75-cb40fa2446db)
 
+
+## Report Generated
+[Click here to view the model](https://app.akkio.com/reports/88f7b0b9-97d4-457e-bd2f-7864b6182f41)
+
 ## Overview
 
 Mental health is a critical issue in the tech industry, where high-stress environments and demanding workloads can lead to mental health challenges. This project uses the [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey) dataset from Kaggle to understand various factors affecting mental health among tech professionals.
