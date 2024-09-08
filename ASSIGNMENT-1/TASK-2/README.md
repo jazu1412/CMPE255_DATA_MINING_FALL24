@@ -87,4 +87,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For any questions or inquiries, please contact [vmjs1412@gmail.com](mailto:vmjs1412.com).
+For any questions or inquiries, please contact [jayasurya.murali@sjsu.edu](mailto:jayasurya.murali@sjsu.edu).
