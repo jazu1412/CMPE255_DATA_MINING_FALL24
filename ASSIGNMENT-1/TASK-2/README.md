@@ -68,9 +68,9 @@ The Priority Assistant is a Flask-based web application that helps users manage 
 
 ## 🖼️ Screenshots
 
-[AI Priority Assistant Interface](AI-Pair-Programmer-Priority-assistant/app/static/images/img-1.png)
-[AI Priority Assistant Interface](AI-Pair-Programmer-Priority-assistant/app/static/images/img-2.png)
-[AI Priority Assistant Interface](AI-Pair-Programmer-Priority-assistant/app/static/images/img-3.png)
+![AI Priority Assistant Interface](AI-Pair-Programmer-Priority-assistant/app/static/images/img-1.png)
+![AI Priority Assistant Interface](AI-Pair-Programmer-Priority-assistant/app/static/images/img-2.png)
+![AI Priority Assistant Interface](AI-Pair-Programmer-Priority-assistant/app/static/images/img-3.png)
 
 ## 🤝 Contributing
 
