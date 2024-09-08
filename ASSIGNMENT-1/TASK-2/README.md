@@ -14,7 +14,7 @@ The Priority Assistant is a Flask-based web application that helps users manage 
 - 🖥️ Intuitive user interface for easy task management
   
 ## Video Demonstration
-![Solving problems using Claude Dev]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/kKWhKBc0iWA))
+![Solving problems using Claude Dev](https://youtu.be/kKWhKBc0iWA)
 
 
 ## 🛠️ Installation
