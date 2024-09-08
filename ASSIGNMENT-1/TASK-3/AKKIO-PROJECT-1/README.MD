@@ -5,7 +5,7 @@ This project analyzes the "Mental Health in Tech Survey" dataset using Akkio, a 
 
 
 ## Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/nhriOdDmEPM)
 
 ## Live Preview
 [Click here to try the deployed model](https://app.akkio.com/deployments/4fd2a571-6cfd-46ed-ab75-cb40fa2446db)
