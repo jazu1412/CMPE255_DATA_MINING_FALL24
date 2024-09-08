@@ -40,14 +40,6 @@ You can explore the results of our analysis using Akkio through the live deploym
 4. **Model Evaluation**: Assess the model's performance using appropriate metrics.
 5. **Insights**: Extract key insights from the model and interpret the results.
 
-## Try out the model
-[**Click here to try the deployed model**](https://app.akk.io/deployments/7861bdc9-a17f-455e-a32b-371f147af1a5)
-
-## Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/M5z6LeCHHaU)
-
-## Detailed Report
-For a comprehensive analysis of the project, check out our [detailed report](https://app.akk.io/reports/d2b8aede-45d1-4586-a5ad-69251b2354c0).
 
 
 ## Conclusion
