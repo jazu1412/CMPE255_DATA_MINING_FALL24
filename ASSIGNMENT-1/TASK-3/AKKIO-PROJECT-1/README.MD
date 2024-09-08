@@ -12,7 +12,7 @@ This project analyzes the "Mental Health in Tech Survey" dataset using Akkio, a 
 
 
 ## Report Generated
-[Click here to view the model](https://app.akkio.com/reports/88f7b0b9-97d4-457e-bd2f-7864b6182f41)
+[Click here to view the report from Akkio](https://app.akkio.com/reports/88f7b0b9-97d4-457e-bd2f-7864b6182f41)
 
 ## Overview
 
