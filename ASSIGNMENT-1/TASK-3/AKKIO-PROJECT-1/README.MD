@@ -23,12 +23,6 @@ Mental health is a critical issue in the tech industry, where high-stress enviro
 
 The goal of this analysis is to predict whether a person in the tech industry is likely to seek treatment for mental health issues based on various factors such as age, gender, family history, and workplace environment.
 
-## Live Demo
-
-You can explore the results of our analysis using Akkio through the live demo below:
-
-<iframe width="500" height="500" src="https://app.akk.io/4fd2a571-6cfd-46ed-ab75-cb40fa2446db"></iframe>
-
 ## Steps to Reproduce
 
 1. **Dataset**: Download the dataset from [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey).
