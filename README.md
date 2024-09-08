@@ -3,8 +3,10 @@
 **Jayasurya Murali (018179681)**  
 **Section: 47**
 
-This is the assignment repository for **CMPE255 - Data Mining** for **Fall 2024**. The repository contains the submissions for **Assignment 1**.
+This is the assignment repository for **CMPE255 - Data Mining** for **Fall 2024**.
 
+---
+**Assignment 1**.
 ---
 
 ## 📝 Assignment 1 Overview
