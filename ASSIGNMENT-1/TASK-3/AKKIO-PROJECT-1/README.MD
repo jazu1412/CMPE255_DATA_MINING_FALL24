@@ -38,7 +38,6 @@ You can explore the results of our analysis using Akkio through the live demo be
 5. **Insights**: Extract key insights from the model and interpret the results.
 
 
-## Try out the model over here
 ## Live Preview
 
 [Click here to try the deployed model](https://app.akk.io/deployments/4fd2a571-6cfd-46ed-ab75-cb40fa2446db)
