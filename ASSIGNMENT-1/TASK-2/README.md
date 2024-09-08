@@ -1,9 +1,9 @@
 
-# 🧠 AI Priority Assistant
+# 🧠  Priority Assistant
 
 ## Overview
 
-The AI Priority Assistant is a Flask-based web application that helps users manage their tasks and generate personalized daily plans. It utilizes intelligent algorithms to optimize task scheduling based on priority, estimated time, deadlines, and flexibility.
+The Priority Assistant is a Flask-based web application that helps users manage their tasks and generate personalized daily plans. It utilizes intelligent algorithms to optimize task scheduling based on priority, estimated time, deadlines, and flexibility.
 
 ## ✨ Features
 
