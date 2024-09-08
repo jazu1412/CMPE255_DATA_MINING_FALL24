@@ -3,7 +3,8 @@
 
 This project analyzes the "Mental Health in Tech Survey" dataset using Akkio, a no-code AutoML platform. The analysis aims to provide insights into the mental health landscape within the tech industry.
 
-
+##Akkio Project Link
+[AKKIO PROJECT LINK](https://app.akkio.com/project/88f7b0b9-97d4-457e-bd2f-7864b6182f41)
 ## Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/nhriOdDmEPM)
 
