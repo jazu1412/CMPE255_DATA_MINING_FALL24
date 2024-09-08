@@ -43,7 +43,8 @@ The AI Todo Assistant is a Flask-based web application that helps users manage t
 
 6. Start the Flask development server:
    ```
-   python app.py
+   cd AI-Pair-Programmer-Priority-assistant
+   python3 -m flask run
    ```
 
 7. Open your web browser and visit `http://localhost:5000` to access the AI Todo Assistant.
@@ -53,8 +54,9 @@ The AI Todo Assistant is a Flask-based web application that helps users manage t
 - Use the "Add Task" form to create new tasks with relevant details.
 - Click the "Generate Daily Plan" button to get an optimized schedule based on your wake-up time.
 - Mark tasks as completed using the "Complete" button next to each task.
+-  Mark tasks as Deleted using the "Delete" button next to each task.
 - The dashboard provides an overview of task statistics.
-- To sync tasks with external calendar events, provide the necessary calendar integration details.
+
 
 ## File Structure
 
