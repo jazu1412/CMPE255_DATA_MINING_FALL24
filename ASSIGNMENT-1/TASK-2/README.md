@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-- The AI Todo Assistant was inspired by the need for efficient task management and scheduling.
+- The AI Todo Assistant was inspired by the need for efficient task management and scheduling and was pair programmed using Claude-dev assistant in Visual Studio Code.
 - Thanks to the open-source community for the various libraries and tools used in this project.
 
 ## 📧 Contact
