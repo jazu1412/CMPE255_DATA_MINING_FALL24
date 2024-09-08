@@ -16,7 +16,6 @@ This repository contains two key elements:
   - [Installation](#-installation)
   - [Usage](#-usage)
   - [Dependencies](#-dependencies)
-  - [Contributing](#-contributing)
   - [License](#-license)
 
 ---
@@ -126,18 +125,6 @@ This notebook primarily utilizes built-in Colab functionalities and libraries. A
 - Elastic Search (for ES magic and functionalities)
 
 Note: Most dependencies are automatically handled in the Colab environment.
-
-## 👥 Contributing
-
-We welcome contributions to enhance this notebook! Here's how you can contribute:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Please ensure your PR includes a clear description of the improvements.
 
 ## 📄 License
 
