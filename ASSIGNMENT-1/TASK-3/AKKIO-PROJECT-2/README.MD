@@ -7,6 +7,11 @@ This project analyzes the "200 Financial Indicators of US stocks (2014-2018)" da
 ## Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
+## Live Preview
+[Click here to try the deployed model](https://app.akkio.com/deployments/4fd2a571-6cfd-46ed-ab75-cb40fa2446db)
+
+## Report Generated
+[Click here to view the report from Akkio](https://app.akkio.com/reports/88f7b0b9-97d4-457e-bd2f-7864b6182f41)
 
 ## Dataset
 **Source**: [Kaggle](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018)  
