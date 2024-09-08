@@ -1,14 +1,16 @@
-ASSIGNMENT-1/
-├── TASK-1/
-│   ├── README.md
-│   ├── Task-1-Advanced_Colab.ipynb
-│   └── Task-1-Derek_Banas_Python_Tutorial.ipynb
-├── TASK-2/
-│   ├── AI-Pair-Programmer-Priority-assignment.mp4
-│   └── README.md
-├── TASK-3/
-│   ├── AKKIO-PROJECT-1/
-│   │   └── README.md
-│   ├── AKKIO-PROJECT-2/
-│       └── README.md
-└── README.md  # This file
+Jayasurya Murali
+(018179681)
+(Sec 47 CMPE 255 FA 24)
+
+Assignment 1
+
+Task 1: Python Tutorial & Advanced Colab Features
+This task demonstrates basic and advanced Python programming in Colab by following Derek Banas' tutorial and implementing advanced Colab features.
+
+Task 2: AI Pair Programmer with GitHub Copilot
+This task includes a demonstration of using GitHub Copilot to assist in coding a small project in VSCode. A video walkthrough is included.
+
+Task 3: AutoML with Akkio
+This task covers projects completed with Akkio, a no-code AutoML tool, to demonstrate end-to-end machine learning.
+
+README.MD files are available in all sub directories
