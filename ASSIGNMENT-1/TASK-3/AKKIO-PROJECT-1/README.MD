@@ -3,6 +3,10 @@
 
 This project analyzes the "Mental Health in Tech Survey" dataset using Akkio, a no-code AutoML platform. The analysis aims to provide insights into the mental health landscape within the tech industry.
 
+
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 ## Overview
 
 Mental health is a critical issue in the tech industry, where high-stress environments and demanding workloads can lead to mental health challenges. This project uses the [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey) dataset from Kaggle to understand various factors affecting mental health among tech professionals.
@@ -56,8 +60,6 @@ The goal of this analysis is to predict whether a person in the tech industry is
 4. **Model Evaluation**: Assess the model's performance using metrics like accuracy, precision, recall, etc.
 5. **Insights**: Extract key insights from the model and interpret the results.
 
-## Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Live Preview
 
