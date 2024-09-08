@@ -56,7 +56,8 @@ The goal of this analysis is to predict whether a person in the tech industry is
 4. **Model Evaluation**: Assess the model's performance using metrics like accuracy, precision, recall, etc.
 5. **Insights**: Extract key insights from the model and interpret the results.
 
-## Accuracy of the model - 74.2%
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Live Preview
 
