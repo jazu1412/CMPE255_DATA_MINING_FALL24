@@ -10,6 +10,8 @@ if the value of a stock decreases during 2019, then class=0.
 
 So we would be trying to predict this class column if its positive or negative based on 2018 financial data
 
+## AKKIO PROJECT LINK
+[AKKIO PROJECT LINK](https://app.akkio.com/project/d2b8aede-45d1-4586-a5ad-69251b2354c0)
 
 ## Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/M5z6LeCHHaU)
