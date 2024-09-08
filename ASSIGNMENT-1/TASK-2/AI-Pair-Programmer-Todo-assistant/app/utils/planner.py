@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from app.models.task import TaskPriority
+from app.models.task import TaskPriority, TaskStatus
 
 def generate_daily_plan(wake_up_time, tasks, calendar_events=[]):
     current_time = datetime.combine(datetime.today(), wake_up_time)
@@ -15,8 +15,11 @@ def generate_daily_plan(wake_up_time, tasks, calendar_events=[]):
             'type': 'calendar_event'
         })
 
+    # Filter out completed tasks
+    active_tasks = [task for task in tasks if task.status != TaskStatus.DONE]
+
     # Sort tasks by priority (High, Medium, Low) and then by deadline
-    sorted_tasks = sorted(tasks, key=lambda x: (priority_order(x.priority), x.deadline or datetime.max))
+    sorted_tasks = sorted(active_tasks, key=lambda x: (priority_order(x.priority), x.deadline or datetime.max))
 
     for task in sorted_tasks:
         task_duration = timedelta(hours=task.estimated_time)
