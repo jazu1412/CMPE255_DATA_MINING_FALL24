@@ -21,7 +21,7 @@ This repository contains two key elements:
 
 ---
 
-# Assignment 1 - Task 1:a) Python Tutorial
+# Assignment 1 - Task 1 a) Python Tutorial
 
 ## File Overview
 
@@ -59,7 +59,7 @@ To use the notebook:
 
 ---
 
-# Assignment 1 - Task 1:b) Advanced Colab Notebook
+# Assignment 1 - Task 1 b) Advanced Colab Notebook
 
 ![Colab Logo](https://colab.research.google.com/img/colab_favicon_256px.png)
 
